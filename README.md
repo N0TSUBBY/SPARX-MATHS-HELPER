@@ -1,43 +1,81 @@
-# Sparx Maths Solver Web Extension  
-For PC/Tablets Only  MADE BY SS
+# <span style="color: #4285F4;">🧮</span> Sparx Maths Solver Web Extension  
+### <span style="color: #555;">For PC/Tablets Only | Made by SS</span>
 
-```
-⚠️ Required: Replace the API key (Line 419)  
-const API_KEY = '...'; // REPLACE HERE
+[✨ Features](#-features) | [📥 Installation](#-installation) | [❓ Help](#-need-help)
 
-*Get free key: [Google AI Studio](https://aistudio.google.com)*
-```
-# 
-**✅ Works On**:  
-- Desktop browsers (Chrome/Firefox/Edge)  
-- iPad/Tablets (via Orion browser)  
-**❌ Not For Mobile**
-# 
-**✨ Features**:  
-• Instant math answers  
-• Step-by-step solutions  
-• Dark/light mode  
-• Performance timer  
+---
 
-*Use: Click extension → "Get Answer" on any Sparx question*
-# 
-```
-** HOW TO USE: **
-• Download the files above by pressing the green code button and then download zip
-• Go to your files and unzip it
-• Open the folder u created and delete the read.md file
-• Open the content.js file and on line 419 edit the ... with ur own gemeni api key (TUT AT THE TOP OF THIS PAGE). and save it. (RECOMMENDED APP FOR IOS IS KODER)
-• Search up on YT or if you allready know , load it into ur  supported web as an extension and just load sparxmaths and login and it should popup
-- REMEMBER ONLY WORKS FOR IPAD, ANY TYPE OF PC -
-  (Not sure of any android and it doesnt work on iphone)
-```
-**Note**: Educational use only - may require browser extension knowledge
+## <span style="color: #EA4335;">🚀</span> Quick Start
 
-**Key Features**:
-1. 50% more compact than previous versions
-2. No installation instructions (assumes web extension knowledge)
-3. All critical info visible at first glance
-4. Clean code block for API key
-5. Clear compatibility labeling
-6. Direct link for API key
-7. Usage condensed to one line
+```javascript
+// ⚠️ REQUIRED: Replace the API key (Line 419)
+const API_KEY = '...'; // 🔑 Paste your API key here
+
+// Get free key from https://aistudio.google.com
+```
+
+---
+
+## <span style="color: #34A853;">✔️</span> Compatibility
+
+### <span style="color: #34A853;">✅</span> **Works On**
+- <span style="color: #4285F4;">●</span> Chrome/Edge/Firefox (Desktop)
+- <span style="color: #FBBC05;">●</span> iPad (via [Orion Browser](https://orionbrowser.com))
+  
+### <span style="color: #EA4335;">❌</span> **Not Supported**
+- Mobile phones
+- Android tablets
+- Safari on iPhone
+
+[⬆️ Back to top](#-sparx-maths-solver-web-extension)
+
+---
+
+## <span style="color: #FBBC05;">✨</span> Features {#-features}
+
+- <span style="color: #4285F4;">⚡</span> **Instant answers** - Solve problems in seconds
+- <span style="color: #34A853;">📝</span> **Step-by-step solutions** - Learn the working process
+- <span style="color: #EA4335;">🌗</span> **Dark/Light mode** - Comfortable viewing
+- <span style="color: #FBBC05;">⏱️</span> **Performance timer** - Track solving speed
+
+**How to use:**  
+1. Open any Sparx Maths question
+2. Click the extension icon
+3. Press "Get Answer"
+
+[⬆️ Back to top](#-sparx-maths-solver-web-extension)
+
+---
+
+## <span style="color: #4285F4;">📥</span> Installation Guide {#-installation}
+
+### <span style="color: #34A853;">1.</span> Download Files
+```markdown
+ Press the green code button at the top then press download zip from the thing it extended
+```
+
+### <span style="color: #34A853;">2.</span> Setup Instructions
+1. Unzip downloaded folder
+2. Delete `README.md` file
+3. Edit `content.js`:
+   ```javascript
+   const API_KEY = '...'; // ← Replace this on line. 419
+   ```
+4. Load extension:
+   - **Chrome/Edge**:  
+     `chrome://extensions` → Enable Developer Mode → "Load unpacked"
+   - **iPad**:  
+     Use [Orion Browser](https://orionbrowser.com/help/extensions/)
+
+[⬆️ Back to top](#-sparx-maths-solver-web-extension)
+
+---
+
+## <span style="color: #FBBC05;">❓</span> Need Help? {#-need-help}
+
+### Common Solutions
+- 🔑 [Get API Key Help](https://ai.google.dev)
+**Note:** Educational use only. Requires basic technical knowledge.
+
+[⬆️ Back to top](#-sparx-maths-solver-web-extension)
+```
