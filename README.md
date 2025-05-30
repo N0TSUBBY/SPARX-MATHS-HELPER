@@ -21,6 +21,16 @@ const API_KEY = '...'; // REPLACE HERE
 
 *Use: Click extension → "Get Answer" on any Sparx question*
 # 
+```
+** HOW TO USE: **
+• Download the files above by pressing the green code button and then download zip
+• Go to your files and unzip it
+• Open the folder u created and delete the read.md file
+• Open the content.js file and on line 419 edit the ... with ur own gemeni api key (TUT AT THE TOP OF THIS PAGE). and save it. (RECOMMENDED APP FOR IOS IS KODER)
+• Search up on YT or if you allready know , load it into ur  supported web as an extension and just load sparxmaths and login and it should popup
+- REMEMBER ONLY WORKS FOR IPAD, ANY TYPE OF PC -
+  (Not sure of any android and it doesnt work on iphone)
+```
 **Note**: Educational use only - may require browser extension knowledge
 
 **Key Features**:
