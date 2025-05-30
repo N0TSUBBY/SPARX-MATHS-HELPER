@@ -1,7 +1,7 @@
 # <span style="color: #4285F4;">🧮</span> Sparx Maths Solver Web Extension  
 ### <span style="color: #555;">For PC/Tablets Only | Made by SS</span>
 
-[✨ Features](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-features--features) | [📥 Installation](#-installation) | [❓ Help](#-need-help)
+[✨ Features](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-features--features) | [📥 Installation](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-installation-guide--installation) | [❓ Help](#-need-help)
 
 ---
 
@@ -31,7 +31,7 @@ const API_KEY = '...'; // 🔑 Paste your API key here
 
 ---
 
-## <span style="color: #FBBC05;">✨</span> Features {#-features}
+## <span style="color: #FBBC05;">✨</span> Features
 
 - <span style="color: #4285F4;">⚡</span> **Instant answers** - Solve problems in seconds
 - <span style="color: #34A853;">📝</span> **Step-by-step solutions** - Learn the working process
