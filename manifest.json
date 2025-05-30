@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Sparx  Homework Helper",
+  "version": "1.0",
+  "description": "Made By SS To Help You Do Your Homework",
+  "permissions": ["scripting"],
+  "host_permissions": ["*maths.sparx-learning*"],
+  "content_scripts": [
+    {
+      "matches": ["*://maths.sparx-learning.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
