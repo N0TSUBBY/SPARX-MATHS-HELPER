@@ -3,7 +3,7 @@
 
 [✨ Features](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-features) | [📥 Installation](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-installation-guide) | [❓ Help](https://github.com/N0TSUBBY/SPARX-MATHS-HELPER?tab=readme-ov-file#-need-help)
 
-IF U WANT A FASTER ONE JOIN THE [DISCORD](discord.gg/sparx)
+IF U WANT A FASTER ONE JOIN THE [DISCORD](https://discord.gg/sparx)
 ---
 
 ## <span style="color: #EA4335;">🚀</span> Quick Start
