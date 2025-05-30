@@ -47,7 +47,7 @@ const API_KEY = '...'; // 🔑 Paste your API key here
 
 ---
 
-## <span style="color: #4285F4;">📥</span> Installation Guide {#-installation}
+## <span style="color: #4285F4;">📥</span> Installation Guide 
 
 ### <span style="color: #34A853;">1.</span> Download Files
 ```markdown
@@ -71,7 +71,7 @@ const API_KEY = '...'; // 🔑 Paste your API key here
 
 ---
 
-## <span style="color: #FBBC05;">❓</span> Need Help? {#-need-help}
+## <span style="color: #FBBC05;">❓</span> Need Help?
 
 ### Common Solutions
 - 🔑 [Get API Key Help](https://ai.google.dev)
